@@ -1,0 +1,9 @@
+/** @format */
+
+* {
+  background: #000;
+  color: white;
+}
+button {
+  border: 1px solid white;
+}
